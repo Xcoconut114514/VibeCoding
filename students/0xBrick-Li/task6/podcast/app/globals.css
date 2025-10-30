@@ -1,0 +1,224 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: #FF9A62;
+    --secondary: #FAF8F7;
+    --accent: #FFB88C;
+    --dark: #2C2C2C;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: var(--dark);
+    background-color: var(--secondary);
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.2;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+  }
+}
+
+@layer components {
+  /* 卡片样式 */
+  .card {
+    @apply bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-300;
+  }
+
+  .card-hover {
+    @apply transform hover:-translate-y-1 hover:scale-[1.02] transition-all duration-300;
+  }
+
+  /* 按钮样式 */
+  .btn-primary {
+    @apply bg-primary text-white px-6 py-3 rounded-full font-medium 
+           hover:bg-accent transition-all duration-300 
+           active:scale-95 shadow-md hover:shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply bg-white text-dark px-6 py-3 rounded-full font-medium 
+           border-2 border-gray-200 hover:border-primary 
+           transition-all duration-300 active:scale-95;
+  }
+
+  /* 输入框样式 */
+  .input {
+    @apply w-full px-4 py-3 rounded-xl border-2 border-gray-200 
+           focus:border-primary focus:outline-none transition-colors duration-300;
+  }
+
+  /* 标签样式 */
+  .tag {
+    @apply inline-block px-4 py-1.5 rounded-full text-sm font-medium
+           bg-gray-100 text-gray-700 hover:bg-primary hover:text-white
+           transition-all duration-300 cursor-pointer;
+  }
+
+  /* 图片容器 */
+  .image-container {
+    @apply relative overflow-hidden rounded-xl;
+  }
+
+  .image-container img {
+    @apply transition-transform duration-500 hover:scale-110;
+  }
+
+  /* 渐变背景 */
+  .gradient-bg {
+    background: linear-gradient(135deg, #FFB88C 0%, #FF9A62 100%);
+  }
+
+  .gradient-text {
+    background: linear-gradient(135deg, #FFB88C 0%, #FF9A62 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* 加载动画 */
+  .loading-spinner {
+    @apply inline-block w-8 h-8 border-4 border-gray-200 
+           border-t-primary rounded-full animate-spin;
+  }
+
+  /* 骨架屏 */
+  .skeleton {
+    @apply bg-gray-200 animate-pulse rounded;
+  }
+
+  /* 滚动条样式 */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 10px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: var(--accent);
+  }
+
+  /* 响应式容器 */
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* 音频波形动画 */
+  .audio-wave {
+    @apply flex items-center gap-1;
+  }
+
+  .audio-wave span {
+    @apply w-1 bg-primary rounded-full animate-pulse;
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+  }
+
+  .audio-wave span:nth-child(1) {
+    animation-delay: 0s;
+  }
+
+  .audio-wave span:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+
+  .audio-wave span:nth-child(3) {
+    animation-delay: 0.4s;
+  }
+
+  .audio-wave span:nth-child(4) {
+    animation-delay: 0.6s;
+  }
+
+  /* 文字截断 */
+  .text-truncate-1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+
+  .text-truncate-2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .text-truncate-3 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+}
+
+@layer utilities {
+  /* 自定义动画延迟 */
+  .animation-delay-100 {
+    animation-delay: 100ms;
+  }
+
+  .animation-delay-200 {
+    animation-delay: 200ms;
+  }
+
+  .animation-delay-300 {
+    animation-delay: 300ms;
+  }
+
+  /* 背景模糊效果 */
+  .backdrop-blur-custom {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+}
+
+/* 深色模式支持（未来扩展） */
+@media (prefers-color-scheme: dark) {
+  /* 暂时不启用，保持浅色主题 */
+}
+
+/* 打印样式 */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}

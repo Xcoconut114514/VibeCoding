@@ -1,0 +1,2657 @@
+{
+    "props": {
+        "pageProps": {
+            "podcast": {
+                "type": "PODCAST",
+                "pid": "676a37ebf26c29a438452f6f",
+                "title": "思目咖啡厅",
+                "author": "Connie康妮大哥",
+                "brief": "与私募时代共振",
+                "description": "私募行业野生观察团",
+                "subscriptionCount": 903,
+                "image": {
+                    "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                    "width": 1509,
+                    "height": 1509,
+                    "format": "jpeg",
+                    "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                    "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                    "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                    "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                },
+                "color": {
+                    "original": "#FAF8F7",
+                    "light": "#FF9A62",
+                    "dark": "#FF9A62"
+                },
+                "hasTopic": true,
+                "topicLabels": [
+                    "ALL"
+                ],
+                "syncMode": "SELF_HOSTING",
+                "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                "subscriptionStatus": "OFF",
+                "subscriptionPush": false,
+                "subscriptionPushPriority": "HIGH",
+                "subscriptionStar": false,
+                "status": "NORMAL",
+                "episodeCount": 41,
+                "permissions": [
+                    {
+                        "name": "SHARE",
+                        "status": "PERMITTED"
+                    },
+                    {
+                        "name": "AI_SUMMARIZE_EPISODE",
+                        "status": "DENIED"
+                    }
+                ],
+                "payType": "FREE",
+                "payEpisodeCount": 0,
+                "isCustomized": false,
+                "podcasters": [
+                    {
+                        "type": "USER",
+                        "uid": "64827603edce67104aa91ca1",
+                        "avatar": {
+                            "picture": {
+                                "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                "width": 132,
+                                "height": 132,
+                                "format": "jpeg"
+                            }
+                        },
+                        "nickname": "康妮大哥",
+                        "isNicknameSet": true,
+                        "bio": "",
+                        "gender": "FEMALE",
+                        "isCancelled": false,
+                        "ipLoc": "广东",
+                        "readTrackInfo": {
+
+                        }
+                    }
+                ],
+                "hasPopularEpisodes": true,
+                "contacts": [
+                    {
+                        "type": "email",
+                        "name": "280055587@qq.com",
+                        "note": "听众反馈"
+                    }
+                ],
+                "playTime": 5461904,
+                "showZhuiguangIcon": false,
+                "episodes": [
+                    {
+                        "type": "EPISODE",
+                        "eid": "68fb142f083a71a4eb09963d",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E41 一周跌去一年涨幅？好像见过哦",
+                        "description": "本期话题：最近一周跌去了一年的涨幅？好像还不是我一个人！慌吗？这次我反正加仓了！\n（由于单口，录制匆忙有些口误，还望包涵，继续努力）\n03:15 一周跌去一年的收益？这次我果断加仓了\n04:40 大跌？定义一下什么级别的跌能成为大跌\n09:00 全球几个重要指数最近50年的走势看，A/H股好像都得择时？\n如果我知道终究这是一条不断创新高的曲线，每一次大跌不都创造出了一个更好的价格，让我获得更好的回报？\n13:10 回溯一下我个人经历的那些牛熊拐点\n17:40 2015年无知者无畏，有超过50%的人赚钱\n21:09 2018年相当痛苦，大家一起亏钱\n27:02 2022年更加痛苦，果断换仓\n30:58 2024年极致痛苦，一周跌掉一年涨幅/跌幅怎么办呢？\n33:20 对“大跌”的“免疫”能力如何建立？\n38:30 面对大跌，理解它--接受它--最好能利用它\n41:20 超乎意料的大跌更需要严格的检视\n46:10 下跌就是一个压力测试，坚信“危”中自有“机”\n祝大家在压力测试中以各种方法活下来，终究能活得更好。\n附：2006--2025年各大指数的月线图（可以看图走势猜指数）",
+                        "shownotes": null,
+                        "duration": 2871,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lsbr5Ci0jybfO-51fVEZUkx3OfIY.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lsbr5Ci0jybfO-51fVEZUkx3OfIY.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lsbr5Ci0jybfO-51fVEZUkx3OfIY.m4a",
+                            "size": 69413878,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lsbr5Ci0jybfO-51fVEZUkx3OfIY.m4a"
+                            }
+                        },
+                        "playCount": 129,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 2,
+                        "pubDate": "2025-10-24T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lsbr5Ci0jybfO-51fVEZUkx3OfIY.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68ddee748bf86095c58b49b6",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E40 小登股or老登股？这不是选择题！",
+                        "description": "本期话题：小登股近期强势霸榜，老登们看不下去啦？拜托，选择还有很多！\n本期嘉宾：红岸（半年之后再回归！理性看待市场，创造性解决问题！）\n内容提要：\n00:50 半年不见，红岸变成职业选手之后的感想\n02:50 股票新分类法：老登股/中登股/小登股\n07:50 没办法下手小登股，也可以创造性去找一些受益的中登们\n10:00 单边上涨的小登股到底合理不合理？\n12:20 做为老登股的代表之一，为什么银行还能买？\n17:00 老登和小登的分化背后，其实是可以创造性地做兼容的选项\n24:15 做为投资人，均衡选手为什么也是可选项之一？\n28:20 未来市场最关注的变量是什么？\n33:20 乐观一点的话，有没有可能A股长牛20年？\n37:40 不性感的老登股最重要的可能就是坚持，做好十年不涨的准备\n43:30 胜率更高的老登股和赔率更高的小登股，本就不是非黑即白的\n46:50 期待一个更全面更健康的盛世中华\n祝祖国强大昌盛！大家好才是真的好！",
+                        "shownotes": null,
+                        "duration": 2993,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lqfqUGFhU7if5TTXQ_uW0jUkJgXM.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lqfqUGFhU7if5TTXQ_uW0jUkJgXM.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lqfqUGFhU7if5TTXQ_uW0jUkJgXM.m4a",
+                            "size": 72354984,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lqfqUGFhU7if5TTXQ_uW0jUkJgXM.m4a"
+                            }
+                        },
+                        "playCount": 148,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 1,
+                        "pubDate": "2025-10-08T22:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lqfqUGFhU7if5TTXQ_uW0jUkJgXM.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68d5f907522b40626c52d11b",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E39 权益仓位配多少？该买什么？又怎么卖？",
+                        "description": "本期节目给听众朋友们国庆节/中秋节献礼啦！我们尝试去回答几个重要的问题：权益仓位应该配多少？买什么？又怎么卖？\n内容提示\n01:05 股票市场火爆，到底应该投多少？\n03:10 原创“ACT-R 模型”测测自己的权益上限\n10:20 为什么建议权益仓位的调整是加或者减10%左右？\n14:50 资产配置的免费午餐：定期或者条件触发进行再平衡\n16:30 给大家举个例子，怎么计算出自己的权益仓位上限？\n20:30 资产配置派更适用于哪类人群？\n23:30 如果要加仓，该加什么呢？\n29:10 关于主动型的基金该怎么卖？拆开仔细说说\n30:05 什么时候卖？\n1 仓位已经出现偏离的时候卖\n2 市场变得极其危险：可观察的五大信号\n货币政策收紧\u003e监管收紧\u003e估值泡沫\u003e情绪狂热\u003e股市替代品\n35:30 卖什么？\n没有信心的品种\u003e超配品种\u003e波动大且估值贵\n36:30 卖多少？回到中枢上限就可以\n38:00 那权益类仓位的下限该保留多少？\n40:10 资产配置的收益结果是可以计算出来的，先通过ACT-R模型找到舒服的状态，再看看结果是不是符合预期的\n44:10 FOMO心态常常存在，如果结果不太满意，就得继续调整有几点建议：1 持续学习，减少重大错误；2 找到信任的优秀的投顾；3 全球配置化；4 降低波动率，减少追逐热点的行为\n48:55 坚定资产配置派，是一种生活方式的选择\n祝大家节日快乐！\n附上ACT-R模型图示：",
+                        "shownotes": null,
+                        "duration": 3037,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lq4ZeycVZHd2_Tb6r7zCPA_pLVE0.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lq4ZeycVZHd2_Tb6r7zCPA_pLVE0.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lq4ZeycVZHd2_Tb6r7zCPA_pLVE0.m4a",
+                            "size": 73425355,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lq4ZeycVZHd2_Tb6r7zCPA_pLVE0.m4a"
+                            }
+                        },
+                        "playCount": 198,
+                        "clapCount": 4,
+                        "commentCount": 3,
+                        "favoriteCount": 4,
+                        "pubDate": "2025-09-27T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lq4ZeycVZHd2_Tb6r7zCPA_pLVE0.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68cb55f6a56ca3e0c4fb7a90",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E38 全力拥抱AI之科技插上成长的翅膀",
+                        "description": "（本期节目内容经过泰聚基金授权，节选自泰聚基金2025年四季度策略会。温馨提示：本期内容仅做为内容分享，不构成任何投资建议或者意见。）\n内容提示\n02:30 五年一遇（牛市），人工智能不可错过\n03:50 股票分类：题材股/周期股/价值股/成长股\n06:55 成长股投资的三个阶段\n09:45 成长投资最大的不变就是变化\n15:30 当前市场：分化的牛市持续\n22:00 催生牛市的背景：产业+流动性\n29:30 AI是最大的平台革命\n37:05 拥抱AI的四大方向：近期表现最好的是AI算力\n46:10 液冷行业暴涨逻辑\n49:05 产品链代表公司的利润变化\n52:00 AI终端的一些分享\n57:00 AI应用的近期分歧：原生应用是否被取代？\n63:00 本轮牛市的流动性背景\n66:00 本轮牛市弹性较大的四大方向\n图1 成长投资的三个阶段\n图2 稀缺的业绩增长\n图3 美国四大互联网开支 VS 中国房地产开发投资完成额\n图4 AI产业链代表公司的利润变化\n图5 本轮牛市的四大方向\n参考内容：策略会相关内容链接\n泰聚策略会┃聚焦科技创新，抓住时代机遇",
+                        "shownotes": null,
+                        "duration": 4302,
+                        "image": {
+                            "picUrl": "https://image.xyzcdn.net/FmCf7QOb_NmRPVNAJWo1lXf9Ztno.png",
+                            "width": 720,
+                            "height": 720,
+                            "format": "png",
+                            "thumbnailUrl": "https://image.xyzcdn.net/FmCf7QOb_NmRPVNAJWo1lXf9Ztno.png@thumbnail",
+                            "smallPicUrl": "https://image.xyzcdn.net/FmCf7QOb_NmRPVNAJWo1lXf9Ztno.png@small",
+                            "middlePicUrl": "https://image.xyzcdn.net/FmCf7QOb_NmRPVNAJWo1lXf9Ztno.png@middle",
+                            "largePicUrl": "https://image.xyzcdn.net/FmCf7QOb_NmRPVNAJWo1lXf9Ztno.png@large"
+                        },
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ljX-miAEoW4kQwucL-oyFlXIpWNy.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/ljX-miAEoW4kQwucL-oyFlXIpWNy.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/ljX-miAEoW4kQwucL-oyFlXIpWNy.m4a",
+                            "size": 104002262,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ljX-miAEoW4kQwucL-oyFlXIpWNy.m4a"
+                            }
+                        },
+                        "playCount": 132,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 2,
+                        "pubDate": "2025-09-18T22:30:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/ljX-miAEoW4kQwucL-oyFlXIpWNy.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68c15c7ba56ca3e0c4be1aec",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E37 十年系列之对话刘红林：在区块链的花园里种法律的花",
+                        "description": "本期话题：区块链/加密货币/稳定币/RMA，律师能在这个领域干点啥呢？\n本期嘉宾：刘红林律师（曼昆律师事务所创始人，专注WEB3.0的律师）\n内容提要：\n01:20 互联网与法律的结合，产生“创业”项目\n04:08 这是一个满是“坏人”的行当吗？\n05:45 中国禁止的加密货币到底禁止的什么？区块链是加密货币吗？\n12:30 中国的区块链技术的发展到了什么程度？\n16:50 在WEB 3.0 行业里的律师能提供哪些服务？\n22:15 在普法的过程中，什么最难呢？\n24:50 开个脑洞：现在我们讨论的区块链有点像1997年的互联网\n29:30 稳定币是什么呢？为什么突然之间就火了呢？港币稳定币进程如何呢？\n35:20 RMA是什么呢？在中国创业方向有哪些？\n41:00 再次提示“防骗”秘籍\n43:25 最近几年参与区块链的资金体量与投向\n45:50 曼昆律所的画像：用有趣+有钱打破内卷\n祝大家打破刻板，找到自己的花园！",
+                        "shownotes": null,
+                        "duration": 3066,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lk11NcmzM-QUUltWoR4EubajZBY-.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lk11NcmzM-QUUltWoR4EubajZBY-.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lk11NcmzM-QUUltWoR4EubajZBY-.m4a",
+                            "size": 74137622,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lk11NcmzM-QUUltWoR4EubajZBY-.m4a"
+                            }
+                        },
+                        "playCount": 57,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 0,
+                        "pubDate": "2025-09-10T22:30:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "681ac71edb57cd35f7e86e91",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lk11NcmzM-QUUltWoR4EubajZBY-.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68b514605faf36865965b8d3",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E36 A股大时代!你的原则还在吗？",
+                        "description": "本期话题：创十年新高的大A大时代来到，怎么看后市？又如何操作？\n本期嘉宾：毛叔（坚定的资产配置派，守住原则，穿越周期）\n内容提要：\n00:40 8月的A股走出了无敌的气势\n02:00 目前市场从犹豫到乐观中，我们如何去观察市场的发展？\n长期看国家政策+ 科技发展\n中期看“性价比”(有代替品？）\n短期看情绪\n14:16 半山腰上股票的投资，还在坚持”配置“的原则吗？\n18:40 这一次的A股和历史上的哪个时期的A股更为相似？\n22:40 这个阶段如何才能在股票上多赚钱少亏钱?\n26:00 资产配置的五个操作手册\n仓位优先 / 分批交易 / 遵守纪律 / 分散配置 / 少看波动\n34:50 用什么样的心态去面对这个大时代？\n40:40 毛叔是怎么做配置的？核心仓位+卫星仓位\n47:10 这一轮的胜负手在哪里？能做些什么呢？\n不要执着于”数字“妄念 / 牛市不言顶 / 该调整就坚定调整\n57:00 找到适合自己的原则/决策体系\n祝大家收获满满！积累投资的复利！",
+                        "shownotes": null,
+                        "duration": 3622,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ltW5FkpFSqcGdmDlSRP4Yj-i3BL0.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/ltW5FkpFSqcGdmDlSRP4Yj-i3BL0.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/ltW5FkpFSqcGdmDlSRP4Yj-i3BL0.m4a",
+                            "size": 87556164,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ltW5FkpFSqcGdmDlSRP4Yj-i3BL0.m4a"
+                            }
+                        },
+                        "playCount": 274,
+                        "clapCount": 1,
+                        "commentCount": 7,
+                        "favoriteCount": 7,
+                        "pubDate": "2025-09-01T22:30:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+                            {
+                                "name": "最受欢迎",
+                                "code": "POPULAR"
+                            }
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/ltW5FkpFSqcGdmDlSRP4Yj-i3BL0.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "689d8ac69fb6883bb38d7f50",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E35 十年系列之对话波比：香港保险跌宕十年",
+                        "description": "本期话题：你真的了解香港保险吗？\n本期嘉宾：波比（港漂，保险行业从业十年以上）\n内容提要：\n00:40 港漂十年有余，毕业即为保险从业人员，保险代理/经纪全体验\n02:40 这十年香港保险对中国大陆市场是全面拥抱的过程\n05:10 十多年前港险市场刻板印象之一：大客户=公务员/煤老板\n10:35 冲刺MDRT光环？爆单的永远是别人\n20:00 TO B / TO C （保险经纪/保险代理）差别在哪里？\n26:00 2015年“813汇改”让“海外配置”的感觉来了\n28:20 驻点银行的高峰体验：银联刷卡，成就港险的喜马拉雅山\n39:30 真正意义的优秀销售，既要有人脉/资源，又要有能力/解决需求\n41:40 八一八港险里面不同岗位的收入\n44:05 探讨一下为什么好像港险又火了？\n48:40 科普：银行端的保险产品和代理人的保险产品有差别吗？\n54:00 人人都需要保险？避雷指南了解一下\n参考建议：保障类看产品 / 传承类看品牌\n62:00 去除大湾区口音，但坚定看好大湾区区位优势\n有机会再来和大家科普一下香港身份~",
+                        "shownotes": null,
+                        "duration": 3971,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lsiMxz3zk1x4O0MUIiXI1rCztW9R.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lsiMxz3zk1x4O0MUIiXI1rCztW9R.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lsiMxz3zk1x4O0MUIiXI1rCztW9R.m4a",
+                            "size": 96007373,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lsiMxz3zk1x4O0MUIiXI1rCztW9R.m4a"
+                            }
+                        },
+                        "playCount": 119,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 3,
+                        "pubDate": "2025-08-14T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "681ac71edb57cd35f7e86e91",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lsiMxz3zk1x4O0MUIiXI1rCztW9R.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "6893facc638b01587956d652",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E34 号外：反内卷时代，和焦虑同在",
+                        "description": "本期话题：信息平权带来的内卷时代，焦虑无处不在\n本期嘉宾：阿珂（家有2男宝，抓大放小，锻炼出大心脏）\n00:57 反内卷--万众期待的大时代？\n03:30 焦虑，可能就是无处不在的\n06:40 能解决就解决， 不能解决就接受它\n12:10 育儿路上一路升级打怪，经历了尝试了，也就放下了\n18:45 思考：终极问题是未来的社会人需要什么品质？\n23:00 理性分享一下深圳普通学龄前小朋友的日常\n33:00 畅想一下未来中国大陆“反内卷”后的新景象：北欧？/香港？\n38:30 分享一些与焦虑和平共处的方法？\n反内卷不应该只是个口号，先让焦虑安安静静的待着~",
+                        "shownotes": null,
+                        "duration": 2485,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lmu-O1rgZHZ5lbAeZZXNcwJDBaGL.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lmu-O1rgZHZ5lbAeZZXNcwJDBaGL.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lmu-O1rgZHZ5lbAeZZXNcwJDBaGL.m4a",
+                            "size": 60089316,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lmu-O1rgZHZ5lbAeZZXNcwJDBaGL.m4a"
+                            }
+                        },
+                        "playCount": 77,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 0,
+                        "pubDate": "2025-08-07T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "6837b69f38dcc57c6480b509",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lmu-O1rgZHZ5lbAeZZXNcwJDBaGL.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "687ed843a9dec925007bfeee",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E33 读书系列之《早起的奇迹》",
+                        "description": "我们将开启咖啡厅又一个全新的系列--读书系列。这个系列主要为大家带来一些读过之后真实对自己的生活有重大影响的读书故事。\n本期书目：《早期的奇迹-那些能够在早晨8点前改变人生的秘密》（Hal Elrod）\n领读嘉宾：毛叔（十年财富管理行业老兵依旧拥有充沛的生命力）\n内容提要\n01:18 书更多要去实践：纸上得来终觉浅，觉知此事要恭行\n03:05 分享读书的意义\n06:45 更推荐读纸质书，去抵抗短视频\n08:35 和《早起的奇迹 》一起走过的7年：SAVERS 成就属于自己的时间\n14:08 如何在每日生活当中实践这6件事情？可选项而不是必选项\n15:25 关于Silence（正念）的练习：呼吸/身体/情绪/念头/感恩\n25:58 关于Reading (诵读) 的练习：声律/国学/外语\n30:30 延展书单推荐\n34:10 如何找到书单？对照问题去寻找解决方法\n36:00 对应早起的6件事，主动总结晚上睡前的6件事：SLEEPS\n42:00 期待大家一起来读书，我们不仅关注投资更关注生活\n相关资料\n1 S A V E R S = 宁静 / 信念 / 想象 / 健康 / 成长 / 创造\nSilence / Affirmation / Visualization / Exercise / Reading / Scribing\n2 S L E E P S = 拉伸 / 远离 / 亲情 / 环境 / 平静 / 酣睡\nStreching / Leaving / Emotion / Environment / Peace / Sound\n3 延展阅读/练习\n《21天正念训练营》主讲人贾坤\n《声律启蒙》主讲人【清】车万育\n《吸引力法则- 创造梦想生活的简易指南》（杰克·坎菲尔德 / D.D.沃特金）\n《晨间日记的奇迹》（佐藤传）\n《认知行为疗法入门》（郭召良）\n《感恩的奇迹》（M. J. 瑞安）\n《睡眠革命》（尼克·利特尔黑尔斯）",
+                        "shownotes": null,
+                        "duration": 2599,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ll2oJcrJf8h7v6iGBOdWtEtLsVny.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/ll2oJcrJf8h7v6iGBOdWtEtLsVny.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/ll2oJcrJf8h7v6iGBOdWtEtLsVny.m4a",
+                            "size": 62833982,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ll2oJcrJf8h7v6iGBOdWtEtLsVny.m4a"
+                            }
+                        },
+                        "playCount": 89,
+                        "clapCount": 1,
+                        "commentCount": 0,
+                        "favoriteCount": 0,
+                        "pubDate": "2025-07-29T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/ll2oJcrJf8h7v6iGBOdWtEtLsVny.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68786e4ea9dec92500b42a83",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E32 量化压倒性超越主观？",
+                        "description": "本期话题：募集市场一边倒的局面是全市场的用脚投票？\n本期嘉宾：文森（坚定主观策略的摇旗手）\n01:20 市场一边倒向量化的为啥一路狂奔？\n04:30 2025年半年度策略平均水平：指数增强\u003e 主观多头\n05:50 历史上主观有跑赢过量化吗？\n07:10 “Not every manager is AVERRAGE”\n08:20 主观 和量化的区分是不是可以更深一步？还能怎么去做对比？\n13:17 咖啡罐配置理论：主动式的被动投资 VS 被动式的主动投资\n15:20 为什么A股最近几年越来越难赚钱？\n20:40 主观分成价值派和成长派还合理吗？如何归因？\n24:15 100%配置主观的原因？\n27:50 策略的选择背后是价值观以及过往成功路径的选择\n30:30 未来会出现反转吗？选出优秀的人最重要吧\n独立思考才能带来长期的可持续的收益！祝大家投资长虹！",
+                        "shownotes": null,
+                        "duration": 2023,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lhNC8NaVc8knLTajUL47Zu7u4Qxo.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lhNC8NaVc8knLTajUL47Zu7u4Qxo.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lhNC8NaVc8knLTajUL47Zu7u4Qxo.m4a",
+                            "size": 48922632,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lhNC8NaVc8knLTajUL47Zu7u4Qxo.m4a"
+                            }
+                        },
+                        "playCount": 121,
+                        "clapCount": 1,
+                        "commentCount": 0,
+                        "favoriteCount": 1,
+                        "pubDate": "2025-07-22T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "6837b7cb31215eb50645633e",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lhNC8NaVc8knLTajUL47Zu7u4Qxo.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "6874528c60f8f77d4054cd7c",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E31 私定系列：从容私房菜之专访李名虎",
+                        "description": "《私人定制系列》终于上线啦！本系列内容主要专访投资圈内新生代的专业投资人（包括基金经理），真诚地希望在投资的道路上提供一些些参考材料及参考坐标。\n本期内容：专访李名虎（嫏嬛资本合伙人/从容1号基金经理）\n03:50 十几年间从散户到基金经理，希望基金成为投资人的“嫏嬛”福地\n06:00 快问快答环节\n12:55 能成长为基金经理，最重要的是恭身入局\n15:25 十倍股有公式吗？可遇不可求\n（可能只有两个特征：1 起点是熊市；2业绩有弹性）\n20:40 怎么能用“价值投资”选出成长股？\n23:20 如何能选出好股票？（看三年）\n31:20 不追求覆盖市场，更重要的是抓住自己能理解的少数的机会\n38:35 基金如何去做投资决策？\n42:15 如何理解“回撤”？\n（波动是无法避免的，尽量去减少错误）\n47:40 投资里最大的错误是什么？如何抓住新时代的机会？\n54:00 十年来，自己最大的变化是什么？关于未来基金的一些规划\n61:00 目前看市场信心已经提升了很多，但是可能还没调研完就涨了\n64:30 怎样才能走上投资的道路？可以参考巴老选接班人的指标\n（独立思考/ 情绪稳定 / 对人性和机构行为有深刻的洞察力）\n69:40 以汽车行业为例，研究框架是如何构建起来的又如何支撑自己的投资体系？\n83:50 投资这行门槛并不高，需要的是恭身入局\n了解更多有关嫏嬛从容一号基金，可以参考以下材料",
+                        "shownotes": null,
+                        "duration": 5206,
+                        "image": {
+                            "picUrl": "https://image.xyzcdn.net/FjRHSNNhYM2tifCYdFqdfLXqblxM.png",
+                            "width": 699,
+                            "height": 699,
+                            "format": "png",
+                            "thumbnailUrl": "https://image.xyzcdn.net/FjRHSNNhYM2tifCYdFqdfLXqblxM.png@thumbnail",
+                            "smallPicUrl": "https://image.xyzcdn.net/FjRHSNNhYM2tifCYdFqdfLXqblxM.png@small",
+                            "middlePicUrl": "https://image.xyzcdn.net/FjRHSNNhYM2tifCYdFqdfLXqblxM.png@middle",
+                            "largePicUrl": "https://image.xyzcdn.net/FjRHSNNhYM2tifCYdFqdfLXqblxM.png@large"
+                        },
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lg1LEZQ9TnZGG2Mxo2CELv0YZBF7.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lg1LEZQ9TnZGG2Mxo2CELv0YZBF7.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lg1LEZQ9TnZGG2Mxo2CELv0YZBF7.m4a",
+                            "size": 84209425,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lg1LEZQ9TnZGG2Mxo2CELv0YZBF7.m4a"
+                            }
+                        },
+                        "playCount": 100,
+                        "clapCount": 2,
+                        "commentCount": 4,
+                        "favoriteCount": 4,
+                        "pubDate": "2025-07-15T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "687453d63581f309932c7c63",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lg1LEZQ9TnZGG2Mxo2CELv0YZBF7.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "686c60e160f8f77d4059a02a",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E30 号外：去有风的地方",
+                        "description": "本期话题：研学大理去有风的地方，慢呼吸慢生活\n本期嘉宾：缪缪 （一年出门6次以上的”旅行博主”）\n00:50 又见大理，强推自然教育\n02:30 请假小秘诀\n05:00 热爱旅行，因为人生就是一场旅行\n06:50 如何选择目的地？人的因素还是最重要的\n09:11 推荐大理的理由\n14:10 推荐大理值得去的地方\n18:30 当生活慢下来的时候，重新审视自己的生活节奏\n21:20 大理新移民，他们都是谁？\n25:30 移民大理？首先得考虑教育和医疗\n26:50 推荐的松弛感目的地\n28:10 大理旅行的避雷指南\n33:45 成为旅行博主？一切皆有可能\n祝大朋友小朋友暑假旅行快乐！\n下面为请大家欣赏在大理拍摄的一些照片",
+                        "shownotes": null,
+                        "duration": 2120,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lqkB1yNNebjBbeodmit7CsbVFpVa.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lqkB1yNNebjBbeodmit7CsbVFpVa.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lqkB1yNNebjBbeodmit7CsbVFpVa.m4a",
+                            "size": 34297663,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lqkB1yNNebjBbeodmit7CsbVFpVa.m4a"
+                            }
+                        },
+                        "playCount": 55,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 0,
+                        "pubDate": "2025-07-08T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "6837b69f38dcc57c6480b509",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lqkB1yNNebjBbeodmit7CsbVFpVa.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "6861eba908d8fd8586a48e88",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E29 十年系列之康妮：愿望会生发",
+                        "description": "本期话题：主播聊聊思目咖啡厅的缘起以及可期待的后续\n主播：康妮（十年前跨界而来，如今准备生根发芽）\n01:00 从外贸人到私募人，相信愿望会生发\n04:30 过去十年：A股多数时候在3000点徘徊，美股稳步上涨2倍，私募的发展也出现大分化\n07:12 人生的选择：倾听来自内心的声音，勇敢向前\n10:52 愿望没实现？也许它不是我的愿望\n12:40 思目咖啡厅的诞生：想去做对的事情\n13:50 我眼中的私募这个行业\n17:40 思目咖啡厅的内容规划（可见下图）\n21:00 本意是去记录“私募武林”\n24:30 理解：起点重要，过程更重要\n25:55 私募是个行业，每个行业都有自己的规律\n28:50 关于产品的一些理解及心得\n33:20 私募的新周期下，感恩与大家相遇\n34:40 期待大家给我们反馈，祝愿大家都能“如愿”\n下图为《思目咖啡厅》内容规划",
+                        "shownotes": null,
+                        "duration": 2392,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ltkg03YHsGsGjGHN3upuVHxdw9sI.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/ltkg03YHsGsGjGHN3upuVHxdw9sI.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/ltkg03YHsGsGjGHN3upuVHxdw9sI.m4a",
+                            "size": 38691666,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ltkg03YHsGsGjGHN3upuVHxdw9sI.m4a"
+                            }
+                        },
+                        "playCount": 51,
+                        "clapCount": 2,
+                        "commentCount": 2,
+                        "favoriteCount": 0,
+                        "pubDate": "2025-07-01T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "topicId": "681ac71edb57cd35f7e86e91",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/ltkg03YHsGsGjGHN3upuVHxdw9sI.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "6859f98d4abe6e29cbaa1de5",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E28 境外所得要交税的短信你收到了吗？",
+                        "description": "本期话题：各地税局普查要求申报境外所得，你做好准备了吗？\n本期嘉宾：步步（信托从业十年以上）\n03:00 个人所得税首先你要知道的是你是哪里的税收居民？\n07:20 双重身份如何认定？\n08:00 个人所得税有哪几种？\n12:00 投资相关的税收优惠新变化\n14:15 CRS / FATCA 申报从何而来？\n23:00 CRS目前有100多个国家加入，FATCA只针对美国税收居民\n26:10 申报表里面具体需要填什么？\n32:00 合规税收筹划的一般路径\n34:00 海外家族信托之下税收安排的原理\n40:10 税务咨询师会是下一个兴起的专业服务业？\n43:50 海外资产的持有方案要尽早做规划，结合家庭需求，合理运用各种工具\n46:00 积极关注税法变化，合规发展\n祝大家都高枕无忧！",
+                        "shownotes": null,
+                        "duration": 2796,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lgCbUWxzwE1k7f9qxV4vhK7FK8Ll.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/lgCbUWxzwE1k7f9qxV4vhK7FK8Ll.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/lgCbUWxzwE1k7f9qxV4vhK7FK8Ll.m4a",
+                            "size": 45220384,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/lgCbUWxzwE1k7f9qxV4vhK7FK8Ll.m4a"
+                            }
+                        },
+                        "playCount": 157,
+                        "clapCount": 0,
+                        "commentCount": 0,
+                        "favoriteCount": 5,
+                        "pubDate": "2025-06-24T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/lgCbUWxzwE1k7f9qxV4vhK7FK8Ll.m4a"
+                        }
+                    },
+                    {
+                        "type": "EPISODE",
+                        "eid": "68514b152a38b4d9791de433",
+                        "pid": "676a37ebf26c29a438452f6f",
+                        "title": "E27 医药观察：创新药能托起整个行业吗？谁能赚到钱?",
+                        "description": "本期话题：半年暴涨50%的创新药能否带动整个医药行业？普通人怎样能赚到这里的钱？\n本期嘉宾：阿珂（常驻嘉宾，资深私募产品分析员）\n00:30 医药行业拥有非常多的细分子行业，很有可能会从要素拉动走向由科技拉动\n03:35 “喝酒吃药”行情的背后：医药既有防御属性又有成长属性，曾经公募的重仓板块\n04:40 医药行业和消费行业有哪些相似之处？哪些不同之处？\n06:50 “医保”买单，中美支付能力差距很大，同样的药品美国的价格比中国贵几倍\n09:20 回顾中国药物监管的重大里程碑，去做正确的事情\n14:18 创新药为什么突然就火了？其实已经发展了十年\n1）监管的鼓励 2）资本支持 3）真实的刚需 4）人才红利\n19:08 资本市场在创新药的预期已经出现了分歧\n20:30 创新药“十年十亿”同时低成功率的商业模式为什么在过去50年持续火热？\n23:00 医药生物各大子行业的简单科普：消费逻辑/ 制造逻辑/ 高科技逻辑\n1）创新药：壁垒高同时不确定性高\n2）原料药/仿制药：集采重灾区，卷成本\n3）CXO：“卖铲子”的人\n4) 中药：老字号爆品\n5）医药商业/医药流通：连锁药店\n6）医疗器械：医用/家用\n7）生物医药：疫苗/血液等等\n8）专科医院：牙科/眼科/医美等等\n31:00 盘点一下公募医药基金的表现以及市场各大医药ETF\n33:20 现在这个时间点怎么看医药行业？触底反弹？\n35:50 医药行业研究和投资都是高门槛，那最难的是什么？\n41:10 小白们如何下场医药行业？\n44:35 如此高难度的医药行业要不要下场呢？ 就算赚不到钱可以涨知识！\n47:00 打破信息差，祝大家身体健康！\n参考播客：\nhttps://www.xiaoyuzhoufm.com/episode/684596b679e285b9b8d9a448\nhttps://www.xiaoyuzhoufm.com/episode/6816bcb147ebeede7ea56aaa",
+                        "shownotes": null,
+                        "duration": 2972,
+                        "enclosure": {
+                            "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ljFStL92vZd_O_RYpyInRK6sxZHn.m4a"
+                        },
+                        "isPrivateMedia": false,
+                        "mediaKey": "676a37ebf26c29a438452f6f/ljFStL92vZd_O_RYpyInRK6sxZHn.m4a",
+                        "media": {
+                            "id": "676a37ebf26c29a438452f6f/ljFStL92vZd_O_RYpyInRK6sxZHn.m4a",
+                            "size": 48081901,
+                            "mimeType": "audio/mp4",
+                            "source": {
+                                "mode": "PUBLIC",
+                                "url": "https://media.xyzcdn.net/676a37ebf26c29a438452f6f/ljFStL92vZd_O_RYpyInRK6sxZHn.m4a"
+                            }
+                        },
+                        "playCount": 170,
+                        "clapCount": 0,
+                        "commentCount": 2,
+                        "favoriteCount": 6,
+                        "pubDate": "2025-06-17T23:00:00.000Z",
+                        "status": "NORMAL",
+                        "podcast": {
+                            "type": "PODCAST",
+                            "pid": "676a37ebf26c29a438452f6f",
+                            "title": "思目咖啡厅",
+                            "author": "Connie康妮大哥",
+                            "brief": "与私募时代共振",
+                            "description": "私募行业野生观察团",
+                            "subscriptionCount": 903,
+                            "image": {
+                                "picUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg",
+                                "width": 1509,
+                                "height": 1509,
+                                "format": "jpeg",
+                                "thumbnailUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@thumbnail",
+                                "smallPicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@small",
+                                "middlePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@middle",
+                                "largePicUrl": "https://image.xyzcdn.net/Fn3JhCptqhxDy3pDyFnY-SH8TJl7.jpg@large"
+                            },
+                            "color": {
+                                "original": "#FAF8F7",
+                                "light": "#FF9A62",
+                                "dark": "#FF9A62"
+                            },
+                            "hasTopic": true,
+                            "topicLabels": [
+                                "ALL"
+                            ],
+                            "syncMode": "SELF_HOSTING",
+                            "latestEpisodePubDate": "2025-10-24T23:00:00.000Z",
+                            "subscriptionStatus": "OFF",
+                            "subscriptionPush": false,
+                            "subscriptionPushPriority": "HIGH",
+                            "subscriptionStar": false,
+                            "status": "NORMAL",
+                            "episodeCount": 41,
+                            "permissions": [
+                                {
+                                    "name": "SHARE",
+                                    "status": "PERMITTED"
+                                },
+                                {
+                                    "name": "AI_SUMMARIZE_EPISODE",
+                                    "status": "DENIED"
+                                }
+                            ],
+                            "payType": "FREE",
+                            "payEpisodeCount": 0,
+                            "isCustomized": false,
+                            "podcasters": [
+                                {
+                                    "uid": "64827603edce67104aa91ca1",
+                                    "type": "USER",
+                                    "avatar": {
+                                        "picture": {
+                                            "picUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5",
+                                            "middlePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@middle",
+                                            "smallPicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@small",
+                                            "thumbnailUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@thumbnail",
+                                            "largePicUrl": "https://image.xyzcdn.net/FnwdXOwFBc6bGe0P47XVFjluY8L5@large",
+                                            "width": 132,
+                                            "height": 132,
+                                            "format": "jpeg"
+                                        }
+                                    },
+                                    "nickname": "康妮大哥",
+                                    "isNicknameSet": true,
+                                    "bio": "",
+                                    "gender": "FEMALE",
+                                    "isCancelled": false,
+                                    "ipLoc": "广东",
+                                    "readTrackInfo": {
+
+                                    }
+                                }
+                            ],
+                            "hasPopularEpisodes": true,
+                            "contacts": [
+                                {
+                                    "type": "email",
+                                    "name": "280055587@qq.com",
+                                    "note": "听众反馈"
+                                }
+                            ],
+                            "playTime": 5461904,
+                            "showZhuiguangIcon": false
+                        },
+                        "isPlayed": false,
+                        "isFinished": false,
+                        "isFavorited": false,
+                        "isPicked": false,
+                        "permissions": [
+                            {
+                                "name": "SHARE",
+                                "status": "PERMITTED"
+                            },
+                            {
+                                "name": "COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOICE_COMMENT",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "COMMENT_PAGE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "CLAP",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "PICK",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "VOTE",
+                                "status": "DENIED"
+                            },
+                            {
+                                "name": "AI_SUMMARIZE",
+                                "status": "DENIED"
+                            }
+                        ],
+                        "payType": "FREE",
+                        "wechatShare": {
+                            "style": "LINK_CARD"
+                        },
+                        "labels": [
+
+                        ],
+                        "sponsors": [
+
+                        ],
+                        "isCustomized": false,
+                        "ipLoc": "广东",
+                        "transcript": {
+                            "mediaId": "676a37ebf26c29a438452f6f/ljFStL92vZd_O_RYpyInRK6sxZHn.m4a"
+                        }
+                    }
+                ]
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/podcast/[id]",
+    "query": {
+        "id": "676a37ebf26c29a438452f6f"
+    },
+    "buildId": "j6AOCZiv5PCk6BQ7ir5YB",
+    "assetPrefix": "https://static.xiaoyuzhoufm.com/cosmos",
+    "isFallback": false,
+    "gsp": true,
+    "customServer": true,
+    "scriptLoader": [
+
+    ]
+}
